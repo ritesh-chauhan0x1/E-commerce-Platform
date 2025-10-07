@@ -2,7 +2,7 @@
 
 "Full-stack shopping solution"
 
-## 🚀 Features
+## Features
 
 - ✅ Modern React application
 - ✅ Responsive design
